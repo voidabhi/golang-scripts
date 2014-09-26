@@ -1,7 +1,7 @@
 Go Scripts
 ==========
 
-It is a collection of useful reusable scripts for go developer
+It is a collection of useful reusable scripts for go developers
 
 ```Parsing``` - Contains scripts that parses different formats of data.(eg json,csv,etc)
 
