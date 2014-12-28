@@ -13,6 +13,7 @@ func main(){
 	// Content in byte[] from the file
 	content,err:=ioutil.ReadFile(SAMPLE_FILE)
 	
+	// Printing error if present
 	if err!=nil	{
 		fmt.Printf("Error Occurred")
 	}
