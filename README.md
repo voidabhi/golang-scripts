@@ -1,5 +1,4 @@
-Go Scripts
-==========
+## Go Scripts
 
 Collection of reusable code snippets for go developers.
 
@@ -7,8 +6,7 @@ Collection of reusable code snippets for go developers.
 
 ```File Handling``` - These scripts governs file handling and the operations associated with it. (eg open,read,write,close)
 
-License
-===========
+### License
 
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/golang
