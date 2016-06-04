@@ -6,7 +6,7 @@ Collection of reusable code snippets for go developers.
 
 ```File Handling``` - These scripts governs file handling and the operations associated with it. (eg open,read,write,close)
 
-```Http``` - Basic http calls
+```Http``` - Basic http methods
 
 ### License
 
