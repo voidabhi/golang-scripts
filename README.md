@@ -8,7 +8,9 @@ Collection of reusable code snippets for go developers.
 
 ```Http``` - Basic http requests
 
-``DB``` - Basic Database operations
+```DB``` - Basic Database operations
+
+```Channel``` - Working with channels
 
 ### License
 
