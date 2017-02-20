@@ -12,6 +12,8 @@ Collection of reusable code snippets for go developers.
 
 ```Channel``` - Working with channels
 
+'''HTTP Proxy''' - Proxy http example
+
 ### License
 
 ```
