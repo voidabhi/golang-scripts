@@ -6,13 +6,13 @@ Collection of reusable code snippets for go developers.
 
 ```File Handling``` - These scripts governs file handling and the operations associated with it. (eg open,read,write,close)
 
-```Http``` - Basic http requests
+```HTTP``` - Basic http requests
 
 ```DB``` - Basic Database operations
 
 ```Channel``` - Working with channels
 
-'''HTTP Proxy''' - Proxy http example
+```HTTP Proxy``` - Proxy http example
 
 ### License
 
