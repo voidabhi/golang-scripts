@@ -14,6 +14,8 @@ Collection of reusable code snippets for go developers.
 
 ```HTTP Proxy``` - Proxy http example
 
+```S3, S3-sync``` - Handling s3 operations
+
 ### License
 
 ```
