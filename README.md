@@ -16,6 +16,11 @@ Collection of reusable code snippets for go developers.
 
 ```S3, S3-sync``` - Handling s3 operations
 
+
+```DS``` - Implementation of common data structures
+
+```Utilities``` - Helper structs and functions
+
 ### License
 
 ```
