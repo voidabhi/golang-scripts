@@ -1,3 +1,5 @@
+#!/usr/bin/env go
+
 package main
 
 import (
@@ -34,3 +36,4 @@ func SlowProcessingWork(timeoutChan chan bool) {
 func timeout(timeoutChan chan bool) {
 	time.Sleep(time.Duration(timeoutSecs) * time.Second)
 	timeoutChan <- true
+}
